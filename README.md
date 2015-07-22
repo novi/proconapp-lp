@@ -1,0 +1,2 @@
+# proconapp-lp
+proconappのランディングページ
