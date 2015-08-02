@@ -21,6 +21,16 @@ h6 {
     font-weight: 700;
 }
 
+.features {
+    margin-bottom: 30px;
+}
+
+.features li {
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+
 .topnav {
     font-size: 14px; 
 }
