@@ -11,7 +11,6 @@ $(function(){
         $.ajax({
             url: hostUrl,
             type: 'POST',
-            dataType: 'json',
             data: {
                 email_address: param1
             },
