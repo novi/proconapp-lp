@@ -21,6 +21,10 @@ h6 {
     font-weight: 700;
 }
 
+#terms p, #terms li {
+    font-weight: normal;
+}
+
 .features {
     margin-bottom: 30px;
 }
