@@ -21,7 +21,7 @@ h6 {
     font-weight: 700;
 }
 
-#terms p, #terms li {
+p, li {
     font-weight: normal;
 }
 
@@ -73,6 +73,10 @@ h6 {
 
 .intro-message > h3 ,.intro-message > h2 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+.sns-share li {
+    margin-bottom: 10px;
 }
 
 .privacypolicy {
@@ -139,8 +143,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
-    background-size: cover;
+    background-color: #358;
 }
 
 .banner h2 {
