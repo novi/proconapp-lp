@@ -75,6 +75,10 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
+.sns-share li {
+    margin-bottom: 10px;
+}
+
 .privacypolicy {
     color: white;
     text-decoration: underline;
