@@ -161,6 +161,10 @@ p, li {
     margin-top: 0;
 }
 
+.banner-social-buttons li {
+    margin-bottom: 5px;
+}
+
 .banner-social-buttons img {
     display: inline-block;
     margin-right: 5px;
