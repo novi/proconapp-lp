@@ -9,7 +9,7 @@ body,
 html {
     width: 100%;
     height: 100%;
-    font-family: 'Open Sans','Helvetica Neue', Helvetica, 'Arial', '$B%R%i%.%N3Q%4(B ProN W3', 'Hiragino Kaku Gothic ProN', '$B%a%$%j%*(B', Meiryo, sans-serif;x
+    font-family: 'Open Sans','Helvetica Neue', Helvetica, 'Arial', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif;x
 }
 
 body,
@@ -25,7 +25,7 @@ h6 {
 
 p, li {
     font-weight: normal;
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, 'Arial', '$B^b%4%7%C%/(B', YuGothic, '$B%R%i%.%N3Q%4(B ProN W3', 'Hiragino Kaku Gothic ProN', '$B%a%$%j%*(B', Meiryo, sans-serif;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, 'Arial', '游ゴシック', YuGothic, 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif;
 }
 
 .features {
