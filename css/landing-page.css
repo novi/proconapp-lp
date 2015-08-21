@@ -9,7 +9,7 @@ body,
 html {
     width: 100%;
     height: 100%;
-    font-family: 'Open Sans','Helvetica Neue', Helvetica, 'Arial', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif;x
+    font-family: 'Open Sans','Helvetica Neue', Helvetica, 'Arial', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif;
 }
 
 body,
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, 'Arial', '游ゴシック', YuGothic, 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif;
     font-weight: 700;
 }
 
