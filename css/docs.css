@@ -21,10 +21,14 @@ h6 {
     font-weight: 700;
 }
 
-p, li {
+p, li, dt, dd {
     font-family: 'Helvetica Neue', Helvetica, 'Arial', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif;
+    font-size: 16px;
 }
 
+.subject {
+    
+}
 
 .lead {
     font-size: 18px;
@@ -55,6 +59,7 @@ p, li {
 
 
 footer {
+    margin-top: 50px;
     padding: 50px 0;
     background-color: #f8f8f8;
 }
