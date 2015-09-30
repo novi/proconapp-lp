@@ -43,9 +43,14 @@ h3 {
 	font-size: 20px;
 }
 
+.comment {
+	font-size: 13px;
+	color: #888888;
+}
+
 table, td, th {
 	border: 1px #808080 solid;
-	font-size: 11px;
+	font-size: 13px;
 }
 
 td, th {
@@ -53,7 +58,7 @@ td, th {
 }
 
 td.school-name {
-	font-size: 9px;
+	font-size: 11px;
 	padding: 2px;
 }
 
@@ -100,11 +105,14 @@ dt {
 }
 
 img.map {
-	width: 100%
+	width: 100%;
+}
+
+.toppage-link {
+	margin: 20px 0;
 }
 
 footer {
-    margin-top: 50px;
     padding: 50px 0;
     background-color: #f8f8f8;
 }
