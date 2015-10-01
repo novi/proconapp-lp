@@ -28,10 +28,45 @@ h5 {
 p, li, dt, dd {
     font-family: 'Helvetica Neue', Helvetica, 'Arial', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif;
     font-size: 16px;
+    line-height: 150%;
 }
 
 .subject {
     
+}
+
+h1.schedule-subject {
+    font-size: 24px
+}
+
+h3 {
+	font-size: 20px;
+}
+
+.comment {
+	font-size: 13px;
+	color: #888888;
+}
+
+table, td, th {
+	border: 1px #808080 solid;
+	font-size: 13px;
+}
+
+td, th {
+	padding: 4px;
+}
+
+td.school-name {
+	font-size: 11px;
+	padding: 2px;
+}
+
+tr:nth-child(even) {
+    background:#f8f8f8;
+}
+tr:nth-child(odd) {
+    background:#ffffff;
 }
 
 .lead {
@@ -61,9 +96,23 @@ p, li, dt, dd {
     border-top: 3px solid #e7e7e7;
 }
 
+dd {
+	padding-left: 1.5em; 
+}
+
+dt {
+	padding-top: 0.5 em; 
+}
+
+img.map {
+	width: 100%;
+}
+
+.toppage-link {
+	margin: 20px 0;
+}
 
 footer {
-    margin-top: 50px;
     padding: 50px 0;
     background-color: #f8f8f8;
 }
